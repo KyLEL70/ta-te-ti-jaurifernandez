@@ -10,6 +10,6 @@ int main(int argc, char * argv[])
 
 void mostrarTitulo()
 {
-    printf("NO tan Super Ta-Te-Ti\n");
+    printf("Recontra Super Ta-Te-Ti\n");
     return;
 }
